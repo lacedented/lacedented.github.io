@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lacedented.wbuyy.com/lacedented.txt
